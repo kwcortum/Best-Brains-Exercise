@@ -1,0 +1,1 @@
+This project uses a HTML and it uses CSS through a style tag. This project is in fulfillment of an exercise for the Coding Curriculum Writer position interview with Best Brain.
